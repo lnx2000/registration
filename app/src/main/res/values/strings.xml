@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RegistrationModule</string>
+
+    <string name="techevents"><b><u>Technical Events</u></b></string>
+    <string name="nontechevents"><b><u>Non-Technical Events</u></b></string>
+    <string-array name="year">
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+    <string-array name="bugOff">
+        <!--<item>None</item>-->
+        <item>Individual   - Rs.80</item>
+        <item>Team         - Rs.100</item>
+    </string-array>
+    <string-array name="justCoding">
+        <item>None</item>
+        <item>Individual   - Rs.80</item>
+        <item>Team         - Rs.100</item>
+    </string-array>
+    <string-array name="recodeIt">
+        <item>None</item>
+        <item>Individual   - Rs.80</item>
+        <item>Team         - Rs.100</item>
+    </string-array>
+    <string-array name="cerebro">
+        <item>None</item>
+        <item>Individual   - Rs.80</item>
+        <item>Team         - Rs.100</item>
+    </string-array>
+
+    <string name="donotreply"><b>This is a system generated email, hence, please do not reply to this mail.</b></string>
+    <string name="am">Amount: Rs. </string>
+</resources>

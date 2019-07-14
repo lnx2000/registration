@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "100193450230",
+    "firebase_url": "https://pascregistrationappdemo.firebaseio.com",
+    "project_id": "pascregistrationappdemo",
+    "storage_bucket": "pascregistrationappdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100193450230:android:600a4a144582961e",
+        "android_client_info": {
+          "package_name": "com.example.pascregistrationappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100193450230-f5snekalqc0kbhpmauh6f5p3cagq8uvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pascregistrationappdemo",
+            "certificate_hash": "757b94a356559cfee6ea5e49c200c9faac6a2f3a"
+          }
+        },
+        {
+          "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvDd_1gTjQzsVTYxgZ6QqAQYUrjTskEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100193450230:android:e592fab451014d3a",
+        "android_client_info": {
+          "package_name": "com.example.pulzionmaindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100193450230-doju3kb7nvkom2vdrfua2ougjcidq73p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pulzionmaindemo",
+            "certificate_hash": "757b94a356559cfee6ea5e49c200c9faac6a2f3a"
+          }
+        },
+        {
+          "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvDd_1gTjQzsVTYxgZ6QqAQYUrjTskEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100193450230:android:ba058e43deae7d12",
+        "android_client_info": {
+          "package_name": "com.example.tanush.maindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100193450230-e6nq0osbsajuid0imobsp0c7d1tg1im2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanush.maindemo",
+            "certificate_hash": "4daa5959a9514462a45a63d0e7bc6227750eff3d"
+          }
+        },
+        {
+          "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvDd_1gTjQzsVTYxgZ6QqAQYUrjTskEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100193450230:android:6f4c55b8147f45c7",
+        "android_client_info": {
+          "package_name": "com.example.tanush.registrationmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100193450230-r2r0m9i6bu9rn5c4sobqep7fi6a0v9gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanush.registrationmodule",
+            "certificate_hash": "4daa5959a9514462a45a63d0e7bc6227750eff3d"
+          }
+        },
+        {
+          "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvDd_1gTjQzsVTYxgZ6QqAQYUrjTskEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100193450230-kr67bpikb31rhqlh9osv4i73i4rhf16h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
